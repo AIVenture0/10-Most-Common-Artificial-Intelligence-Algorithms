@@ -1,7 +1,7 @@
 # Top-10-Artificial-Intelligence-Algorithms
 <h1> <strong> ......................................... (1) ..... ..........................................</strong></h1>
 
-# Linear Classification
+## Linear Classification
 
 ####  What is Classification?
 Classification is the process of predicting the class of given data points. Classes are sometimes called as targets/ labels or categories.
@@ -43,3 +43,30 @@ Once we find the best b0 and b1 values, we get the best fit line. So when we are
 To Demonstrate how linear classification is is practically used go through the ipython notebook. In the noteobook using kaggle Titanic competition  passenger data and predicting the survial of the passenger.
 
 ## [Linear-Classification](https://github.com/AIVenture0/Top-10-Artificial-Intelligence-Algorithms/blob/master/Linear%20Classification/Linear_classification_with_titanic_data.ipynb)
+
+<h1> <strong> ......................................... (2) ..... ..........................................</strong></h1>
+## Logistic Regression
+
+The name of algorithm is logistic regression but it is a classification algorithm.
+
+##### Logistic Regression is used when the dependent variable(target) is categorical.
+
+For example,
+
+- To predict whether an email is spam (1) or (0)
+- Whether the tumor is malignant (1) or not (0)
+
+
+
+### Logistic Function 
+
+The logistic function, also called the sigmoid function was developed by statisticians to describe properties of population growth in ecology, rising quickly and maxing out at the carrying capacity of the environment. It’s an S-shaped curve that can take any real-valued number and map it into a value between 0 and 1, but never exactly at those limits.
+
+#### Function =1 / (1 + e^-value)
+
+Where e is the base of the natural logarithms
+
+## [Logistic Regression](https://github.com/AIVenture0/Top-10-Artificial-Intelligence-Algorithms/blob/master/Logistic_Regression.ipynb)
+
+
+
