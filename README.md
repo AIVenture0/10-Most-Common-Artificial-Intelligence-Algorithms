@@ -42,4 +42,4 @@ Once we find the best b0 and b1 values, we get the best fit line. So when we are
 ###  How the Linear Classification algorithm is practically used 
 To Demonstrate how linear classification is is practically used go through the ipython notebook. In the noteobook using kaggle Titanic competition  passenger data and predicting the survial of the passenger.
 
-## [Linear-Classification](https://github.com/AIVenture0/Top-10-Artificial-Intelligence-Algorithms/tree/master/Linear%20Classification)
+## [Linear-Classification](https://github.com/AIVenture0/Top-10-Artificial-Intelligence-Algorithms/blob/master/Linear%20Classification/Linear_classification_with_titanic_data.ipynb)
