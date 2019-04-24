@@ -1,8 +1,8 @@
 # Top-10-Artificial-Intelligence-Algorithms
-<h1> <strong> ......................................... (1) ..... ..........................................</strong></h1>
+<h1> <strong> (1)  </strong></h1>
 
 ## Linear Classification
-
+Linear Classificatoin is perhaps one of the most well-known and well-understood algorithms in statistics and machine learning.
 ####  What is Classification?
 Classification is the process of predicting the class of given data points. Classes are sometimes called as targets/ labels or categories.
 Classification predictive modeling is the task of approximating a mapping function (f) from input variables (X) to discrete output variables (y).
